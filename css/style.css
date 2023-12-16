@@ -1354,3 +1354,6 @@ img{display:inline-block;max-width:100%;height:auto;}
 .map-data{text-align:center;font-size:14px;font-weight:400;line-height:1.8em;}
 .map-data a{display:block;}
 .map-data h6{font-size:16px;font-weight:700;text-align:center;margin-bottom:5px;color:#121212;}
+#terms-details label {font-size: 14px;font-weight: bold;line-height: 18px;color: #0d2366;margin-bottom: 8px;}
+#terms-details .details-value {margin-top: 4px;color: #515978;font-size: 14px;line-height: 22px;}
+#terms-details .terms-details-tnc{margin-top: 35px;}
